@@ -1,3 +1,7 @@
+# 
+
+*废弃，已经移动到[SuCicada/su-home-okaeri](https://github.com/SuCicada/su-home-okaeri)*
+
 android 受到sms  ->  自动转发给（bark） ->  iphone
 
 问题：
