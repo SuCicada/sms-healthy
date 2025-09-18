@@ -30,7 +30,7 @@ func ReceiveAndCheck() (bool, error) {
 
 	updates := bot.GetUpdatesChan(u)
 
-	timeout := time.NewTimer(5 * time.Second)
+	timeout := time.NewTimer(50 * time.Second)
 	defer timeout.Stop()
 
 	for {
